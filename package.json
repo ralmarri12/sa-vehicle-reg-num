@@ -1,0 +1,27 @@
+{
+  "name": "sa-vehicle-reg-num",
+  "version": "1.0.0",
+  "description": "Helps to read and convert Saudi Arabian registration plate numbers from English to Arabic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralmarri12/sa-vehicle-reg-num.git"
+  },
+  "keywords": [
+    "plate",
+    "number",
+    "saudi",
+    "arabia",
+    "registration",
+    "cars"
+  ],
+  "author": "Rashid F.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ralmarri12/sa-vehicle-reg-num/issues"
+  },
+  "homepage": "https://github.com/ralmarri12/sa-vehicle-reg-num#readme"
+}
